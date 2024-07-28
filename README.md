@@ -1,6 +1,6 @@
 ``` mermaid
 flowchart TD
-A[How many times will...] --> B['n' times];
+A[How many times will it run?] --> B['n' times];
 A --> C[0 times];
 
 C --> D[randomly generates 'n'];
